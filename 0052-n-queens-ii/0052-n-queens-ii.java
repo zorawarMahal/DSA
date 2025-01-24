@@ -43,6 +43,7 @@ class Solution {
             j--;
         }
 
+        // right diagonal check
         i = row - 1;
         j = col + 1;
         while (i >= 0 && j <= board[0].length - 1) {
