@@ -6,9 +6,8 @@ class Solution {
         // taking transpose
         for (row = 0; row < matrix.length; row++) {
             for (i = row; i < matrix.length; i++) {
-                swap(matrix, i,col, row,i);
+                swap(matrix, i,row, row,i);
             }
-            col++;
         }
 
         // rotating about the centre column
