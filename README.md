@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/zorawarMahal/DSA/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -24,5 +25,10 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/zorawarMahal/DSA/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
