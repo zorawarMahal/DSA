@@ -10,9 +10,6 @@ class Solution {
             max_pos = Math.max(max_pos, nums[i] + i);
         }
 
-        if (max_pos >= n-1) {
-            return true;
-        }
-        return false;
+        return true;
     }
 }
