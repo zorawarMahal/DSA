@@ -27,8 +27,17 @@
 | ------- |
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/zorawarMahal/DSA/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
