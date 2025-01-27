@@ -28,6 +28,7 @@
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/zorawarMahal/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/zorawarMahal/DSA/tree/master/0135-candy) |
 ## Matrix
 |  |
 | ------- |
@@ -40,4 +41,5 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/zorawarMahal/DSA/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
