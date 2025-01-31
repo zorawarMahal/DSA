@@ -1,19 +1,21 @@
 class Solution {
     public void reverseString(char[] s) {
-        int i=0;
-        int j = s.length-1;
+        // simply use two pointers to swap the elements of the character array
 
-        while (i <= j) {
-            swapChar(s, i, j);
-            i++;
-            j--;
-        }
+        // now using the recursive approach
+        swapChar(s, 0, s.length-1);
     }
 
 
-    void swapChar(char[] s, int i, int j) {
-        char temp = s[i];
-        s[i] = s[j];
-        s[j] = temp;
+    void swapChar (char[] s, int start, int end) {
+        if (start > end) {
+            return;
+        }
+
+        char temp = s[start];
+        s[start] = s[end];
+        s[end] = temp;
+
+        swapChar(s, start+1, end-1);
     }
 }
