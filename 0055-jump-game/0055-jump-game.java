@@ -7,9 +7,7 @@ class Solution {
                 return false;
             }
 
-            if (nums[i] + i > max_pos) {
-                max_pos = i + nums[i];
-            }
+            max_pos = Math.max(max_pos, nums[i] + i);
         }
         return true;
     }
