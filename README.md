@@ -16,6 +16,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/zorawarMahal/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zorawarMahal/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0344-reverse-string](https://github.com/zorawarMahal/DSA/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 | ------- |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/zorawarMahal/DSA/tree/master/0135-candy) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/zorawarMahal/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
