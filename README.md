@@ -57,4 +57,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/zorawarMahal/DSA/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/zorawarMahal/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
