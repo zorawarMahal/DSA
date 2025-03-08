@@ -19,30 +19,33 @@ class Solution {
 
         while (list1 != null && list2 != null) {
             if (list1.val <= list2.val) {
-                temp = insertNext(list1.val, temp);
+                temp.next = insertNewnode(list1.val);
                 list1 = list1.next;
             }
             else {
-                temp = insertNext(list2.val, temp);
+                temp.next = insertNewnode(list2.val);
                 list2 = list2.next;
             }
-        }
+            temp = temp.next;
+        }    
 
         while (list1 != null) {
-            temp = insertNext(list1.val, temp);
+            temp.next = insertNewnode(list1.val);
+            temp = temp.next;
             list1 = list1.next;
         }
 
         while (list2 != null) {
-            temp = insertNext(list2.val, temp);
+            temp.next = insertNewnode(list2.val);
+            temp = temp.next;
             list2 = list2.next;
         }
 
         return head.next;
     }
 
-    public ListNode insertNext(int val, ListNode ans) {
-        ans.next = new ListNode(val);
-        return ans.next;
+    public ListNode insertNewnode(int val) {
+        ListNode node = new ListNode(val);
+        return node;
     }
 }
