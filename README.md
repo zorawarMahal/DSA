@@ -6,6 +6,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/zorawarMahal/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zorawarMahal/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -30,11 +31,13 @@
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/zorawarMahal/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/zorawarMahal/DSA/tree/master/0135-candy) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
