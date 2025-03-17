@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/zorawarMahal/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zorawarMahal/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/zorawarMahal/DSA/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/zorawarMahal/DSA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/zorawarMahal/DSA/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
@@ -66,4 +68,5 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/zorawarMahal/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/zorawarMahal/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/zorawarMahal/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
