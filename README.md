@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zorawarMahal/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/zorawarMahal/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zorawarMahal/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -32,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/zorawarMahal/DSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/zorawarMahal/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
