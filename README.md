@@ -60,6 +60,7 @@
 | [0141-linked-list-cycle](https://github.com/zorawarMahal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zorawarMahal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/zorawarMahal/DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/zorawarMahal/DSA/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -67,6 +68,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/zorawarMahal/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/zorawarMahal/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -81,5 +83,10 @@
 | [0141-linked-list-cycle](https://github.com/zorawarMahal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zorawarMahal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
