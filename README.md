@@ -89,4 +89,20 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0234-palindrome-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
