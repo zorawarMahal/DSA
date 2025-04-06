@@ -39,11 +39,13 @@
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/zorawarMahal/DSA/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,14 +94,17 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
