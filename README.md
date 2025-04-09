@@ -39,6 +39,7 @@
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/zorawarMahal/DSA/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zorawarMahal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/zorawarMahal/DSA/tree/master/0733-flood-fill) |
 ## Matrix
@@ -63,6 +64,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/zorawarMahal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zorawarMahal/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zorawarMahal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/zorawarMahal/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/zorawarMahal/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/zorawarMahal/DSA/tree/master/0344-reverse-string) |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/zorawarMahal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
