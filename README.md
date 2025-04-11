@@ -11,6 +11,7 @@
 | [0141-linked-list-cycle](https://github.com/zorawarMahal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zorawarMahal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/zorawarMahal/DSA/tree/master/0202-happy-number) |
+| [2721-sum-of-distances](https://github.com/zorawarMahal/DSA/tree/master/2721-sum-of-distances) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zorawarMahal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/zorawarMahal/DSA/tree/master/0733-flood-fill) |
+| [2721-sum-of-distances](https://github.com/zorawarMahal/DSA/tree/master/2721-sum-of-distances) |
 ## Matrix
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zorawarMahal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Prefix Sum
+|  |
+| ------- |
+| [2721-sum-of-distances](https://github.com/zorawarMahal/DSA/tree/master/2721-sum-of-distances) |
 <!---LeetCode Topics End-->
