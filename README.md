@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/zorawarMahal/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/zorawarMahal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/zorawarMahal/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
@@ -62,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/zorawarMahal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/zorawarMahal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zorawarMahal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zorawarMahal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
