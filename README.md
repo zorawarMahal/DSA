@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/zorawarMahal/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zorawarMahal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/zorawarMahal/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/zorawarMahal/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
@@ -55,11 +56,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/zorawarMahal/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/zorawarMahal/DSA/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/zorawarMahal/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/zorawarMahal/DSA/tree/master/0135-candy) |
 ## Two Pointers
