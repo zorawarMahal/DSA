@@ -133,4 +133,8 @@
 |  |
 | ------- |
 | [2721-sum-of-distances](https://github.com/zorawarMahal/DSA/tree/master/2721-sum-of-distances) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/zorawarMahal/DSA/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
