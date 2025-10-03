@@ -45,6 +45,7 @@
 | [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/zorawarMahal/DSA/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zorawarMahal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/zorawarMahal/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/zorawarMahal/DSA/tree/master/0733-flood-fill) |
 | [2721-sum-of-distances](https://github.com/zorawarMahal/DSA/tree/master/2721-sum-of-distances) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/zorawarMahal/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/zorawarMahal/DSA/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/zorawarMahal/DSA/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
