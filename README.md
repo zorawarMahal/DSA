@@ -17,6 +17,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/zorawarMahal/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/zorawarMahal/DSA/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/zorawarMahal/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/zorawarMahal/DSA/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/zorawarMahal/DSA/tree/master/1013-fibonacci-number) |
 ## String
@@ -61,6 +62,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/zorawarMahal/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/zorawarMahal/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/zorawarMahal/DSA/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/zorawarMahal/DSA/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -90,6 +92,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/zorawarMahal/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/zorawarMahal/DSA/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
