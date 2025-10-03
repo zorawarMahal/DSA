@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/zorawarMahal/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zorawarMahal/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/zorawarMahal/DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/zorawarMahal/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/zorawarMahal/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/zorawarMahal/DSA/tree/master/0202-happy-number) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/zorawarMahal/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zorawarMahal/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/zorawarMahal/DSA/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/zorawarMahal/DSA/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
@@ -45,6 +47,7 @@
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/zorawarMahal/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/zorawarMahal/DSA/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/zorawarMahal/DSA/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/zorawarMahal/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/zorawarMahal/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
@@ -63,6 +66,7 @@
 | [0045-jump-game-ii](https://github.com/zorawarMahal/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/zorawarMahal/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/zorawarMahal/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/zorawarMahal/DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/zorawarMahal/DSA/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/zorawarMahal/DSA/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -93,6 +97,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/zorawarMahal/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/zorawarMahal/DSA/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/zorawarMahal/DSA/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
@@ -142,4 +147,8 @@
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/zorawarMahal/DSA/tree/master/0185-department-top-three-salaries) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/zorawarMahal/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
