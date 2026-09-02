@@ -117,12 +117,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/zorawarMahal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/zorawarMahal/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/zorawarMahal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/zorawarMahal/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/zorawarMahal/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/zorawarMahal/DSA/tree/master/0733-flood-fill) |
@@ -151,4 +153,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/zorawarMahal/DSA/tree/master/0139-word-break) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/zorawarMahal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/zorawarMahal/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
